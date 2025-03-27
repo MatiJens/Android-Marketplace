@@ -1,2 +1,2 @@
-Zmienilem ten fragment tekstu tu kiedys byl test 1
-a tu nowe
+Zmienilem ten fragment tekstu tu kiedys byl test 1 a tu nowe
+test 2
