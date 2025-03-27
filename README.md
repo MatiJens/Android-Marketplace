@@ -1,4 +1,1 @@
-To jest nasz projekt android
-test push
-
-Projekt sklepu
+Projekt sklepu ogrodniczego marchewki
